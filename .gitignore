@@ -1,0 +1,9 @@
+/build/
+/build-*/
+/.qmake.stash
+Makefile
+*.o
+*.obj
+*.user
+__pycache__/
+*.pyc
